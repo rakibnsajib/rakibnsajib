@@ -6,7 +6,7 @@
 <br>
 ### 👨‍🚀 About Me
 <br>
-🔭 I’m currently working on Wordpress <br>
+🔭 I’m currently working as Machine Learning Intern <br>
 🌱 I’m currently learning Data Science <br>
 🤔 I’m looking for help with Machine Learning <br>
 💬 Ask me about Data Science <br>
