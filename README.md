@@ -6,6 +6,7 @@
 <br>
 
 ### 👨‍🚀 About Me
+<br>
 
 <a href="http://www.github.com/rakibnsajib" target="_blank">
 <img align="right" height="150em" alt="rakibnsajib gitHub stats"
@@ -13,7 +14,6 @@
 </a>
 
 
-<br>
 🔭 I’m currently working as Machine Learning Intern <br>
 🌱 I’m currently learning Data Science <br>
 🤔 I’m looking for help with Machine Learning <br>
