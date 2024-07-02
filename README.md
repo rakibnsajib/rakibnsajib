@@ -4,6 +4,12 @@
 [![GitHub ShrikantaMazumder](https://img.shields.io/github/followers/rakibnsajib?label=follow&style=social)](https://github.com/rakibnsajib)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <br>
+
+<a href="http://www.github.com/rakibnsajib" target="_blank">
+<img align="right" height="150em" alt="rakibnsajib gitHub stats"
+     src="https://github-readme-stats.vercel.app/api?username=rakibnsajib&show_icons=true&hide_title=true&theme=dark&bg_color=0b0f14&title_color=green&icon_color=green&count_private=true&hide_border=false&rank_icon=github"/>  
+</a>
+
 ### 👨‍🚀 About Me
 <br>
 🔭 I’m currently working as Machine Learning Intern <br>
@@ -16,10 +22,7 @@
 <br>
 
 
-<a href="http://www.github.com/rakibnsajib" target="_blank">
-<img align="right" height="150em" alt="rakibnsajib gitHub stats"
-     src="https://github-readme-stats.vercel.app/api?username=rakibnsajib&show_icons=true&hide_title=true&theme=dark&bg_color=0b0f14&title_color=green&icon_color=green&count_private=true&hide_border=false&rank_icon=github"/>  
-</a>
+
 
 ### 💪 Experienced with:
 <div>
