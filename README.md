@@ -51,4 +51,14 @@
 -->
 
 
-![snake gif](https://github.com/rakibnsajib/rakibnsajib/blob/output/github-contribution-grid-snake.gif)
+## ⚡ Recent GitHub Activity
+<!-- 
+![github contribution grid snake animation](https://raw.githubusercontent.com/rakibnsajib/rakibnsajib/output/github-contribution-grid-snake.svg)
+-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakibnsajib/rakibnsajib/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakibnsajib/rakibnsajib/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rakibnsajib/rakibnsajib/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
