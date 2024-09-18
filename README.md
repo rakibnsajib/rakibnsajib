@@ -35,6 +35,5 @@
 
 ### Let's Connect!
 
-- **LinkedIn**: [Rakib Hossain Sajib](https://linkedin.com/in/rakib-hossain-sajib)
-- **Twitter**: [@Rakib_Sajib](https://twitter.com/Rakib_Sajib)
-- **GitHub**: [Rakib Hossain Sajib](https://github.com/RakibHossainSajib)
+- **LinkedIn**: [Rakib Hossain Sajib](https://www.linkedin.com/in/rakibnsajib)
+- **Twitter**: [@RakibNSajib](https://x.com/rakibnsajib)
