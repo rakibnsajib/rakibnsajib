@@ -47,11 +47,12 @@
   - Data Science & Machine Learning with Python – aiQuest Intelligence
   
 ---
-
 ### Projects
 
 - **Credit Card Fraud Detection**: A machine learning project on imbalanced data using techniques like SMOTE to detect fraudulent transactions.
 - **Crop Recommendation System**: Built and deployed a Random Forest model to recommend optimal crops based on environmental conditions.
+- **DDoS Defense: A Multiclass and Multidimensional Detection System with Diverse Machine Learning Models**: A system to detect and classify **DDoS (Distributed Denial of Service)** attacks using the **CICDDoS2019** dataset. [🔗](https://github.com/rakibnsajib/DDoS-Defense-A-Multiclass-and-Multidimensional-Detection-System-with-Diverse-Machine-Learning-Models)
+
 
 ---
 
